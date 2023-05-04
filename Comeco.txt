@@ -1,0 +1,8 @@
+Começe localmente
+
+npm i -g typescript
+
+Execução local
+tsc --init (cria o arquivo tsconfig.json)
+
+tsc nomeArquivo.ts
